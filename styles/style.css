@@ -1,0 +1,35 @@
+html {
+    font-family:font-family: 'Nanum Gothic', sans-serif;
+    background-color: white;
+    
+    
+
+}
+
+body {
+    width: 700px;
+    margin: 100px auto;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+    background-color: #f0f8ff;
+}
+
+h1 {
+    text-align: center;
+    margin: 0;
+    padding: 20px 0;
+    color: #2f4f4f;
+    text-shadow: 3px 3px 1px #aaeee8;
+}
+
+p, li {
+    font-size: 18px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    width: 500px;
+}
